@@ -13,14 +13,6 @@ for the payment received. The invoice will contain the amount. 🎱🎱
 
 <!----------------------------------------------->
 
-The website hosted at 000webhost 👍👍👍 
-
-    https://donation-bhavjot.000webhostapp.com/
-    
-The Working Video is also available on Youtube 👍👍👍 
-    
-    https://youtu.be/vnyPOmZaQwM
-
 <!----------------------------------------------->
 <!----------------------------------------------->
 
@@ -36,8 +28,6 @@ The Working Video is also available on Youtube 👍👍👍
 <!----------------------------------------------->
 
 # Gateway Used 👍 :- 
-
-    RazorPay
     PayU
     
 <!----------------------------------------------->
